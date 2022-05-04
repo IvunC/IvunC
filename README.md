@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvunC
+- 👋 Hi, I’m @IvunC, My real name is Ivan, but that was taken
 - 👀 This is a place for me to store my code and fiddle with new projects
 - 📫 Want to reach out to me? 
 -     Email ivuncontreras@gmail.com
