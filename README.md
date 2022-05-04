@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IvunC, My real name is Ivan, but that was taken
+- 👋 Hi, I’m @IvunC,   
+-  My real name is Ivan Contreras. I graduated Illinois Institute of Technology with a Bachelors in Computer Engineering
 - 👀 This is a place for me to store my code and fiddle with new projects
-- 📫 Want to reach out to me? 
--     Email ivuncontreras@gmail.com
+- 📫 Want to reach out to me about any of my projects, send me an email!
 
 <!---
 IvunC/IvunC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
